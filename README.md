@@ -6,9 +6,10 @@ Meu nome é Gabriel Litynski
 
 -Estou estudando um pouco mais sobre:
 
-HTML;
-VsCode;
-JavaScript; 
-Java;
+HTML-
+VsCode-
+JavaScript-
+Java-
+Python-
 
 ![](https://media1.tenor.com/m/zZOt7alSzAMAAAAd/gojo-gojo-satoru.gif)
